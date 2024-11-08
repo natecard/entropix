@@ -14,7 +14,7 @@ ml-dtypes = "^0.5.0"
 rich = "^13.8.1"
 chex = "^0.1.87"
 tyro = "^0.8.11"
-jax = {extras = ["cuda12"], version = "^0.4.35"}
+jax = "^0.4.35"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.3.2"
